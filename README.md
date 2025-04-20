@@ -1,16 +1,27 @@
-# remagine
+<div align="center">
+    <img src="./assets/icon.png" width="128" height="128" style="display: block; margin: 0 auto"/>
+    <h1>remagine</h1>
+    <p>Text to Image Generation AI API</p>
+</div>
 
-A new Flutter project.
+---
 
-## Getting Started
+<p align="center">
+  <img src="./assets/icon.png" width="30%" />
+</p>
 
-This project is a starting point for a Flutter application.
+## Features
+- AI image generation through text prompt
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+    alt="Get it on GitHub"
+    height="80">](https://github.com/samvabya/remagine/releases/latest)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Tech Stack
+
+**Client:** Flutter, Android, Web
+
+**APIs:** Imagine Art API by Midjourney
