@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/icon.png" width="30%" />
+  <img src="./assets/scr1.jpg" width="30%" />
 </p>
 
 ## Features
